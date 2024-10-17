@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "cancion": "Bohemian Rhapsody",
+        "artista": "Queen",
+        "tono": "F"
+    },
+    {
+        "id": 2,
+        "cancion": "Persiana Americana",
+        "artista": "Soda Stereo",
+        "tono": "C"
+    }
+]
