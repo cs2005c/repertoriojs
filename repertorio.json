@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "cancion": "Bohemian Rhapsody",
+        "titulo": "Bohemian Rhapsody",
         "artista": "Queen",
         "tono": "F"
     },
     {
         "id": 2,
-        "cancion": "Persiana Americana",
+        "titulo": "Persiana Americana",
         "artista": "Soda Stereo",
         "tono": "C"
     }
